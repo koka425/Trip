@@ -1,0 +1,224 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url('https://cdn.sanity.io/images/np2gumla/production/032d4ec56dc017fbe3b779f1f79d571103106dda-7952x5304.jpg?w=3840&h=2560&fit=crop&rect=0,0,7952,5304&fp-x=0.5&fp-y=0.41381445899671077&auto=format');
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 600;
+    opacity: 1;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #2196F3;
+    color: white;
+  }
+  
+  .topnav .search-container {
+    float: right;
+  }
+  
+  .topnav input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+  }
+  
+  .topnav .search-container button {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
+
+.topnav .search-container button {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .topnav .search-container button:hover {
+    background: #ccc;
+  }
+
+  .text-title {
+    color: #fff;
+    font-size: 4rem;
+    font-weight: 800;
+    margin: 0;
+  }
+
+  .text-paragh {
+    font-size: 2rem;
+    color: #fff;
+  }
+
+  .container-text {
+    margin: 12rem;
+  }
+
+  .image-icons {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 2rem;
+    height: 15rem;
+    border-radius: 1rem;
+  }
+
+  .text-paragh-about-us {
+    font-size: 2rem;
+    color: #fff;
+
+  }
+
+  .text-paragh-about-us {
+    margin: 2rem;
+    width: 100%;
+  }
+
+  .text-paragh-about-us-2 {
+    margin: 2rem;
+  }
+
+  .text-paragh-about-us-2 div{
+    float: left;
+    display: block;
+  }
+
+  .teet{
+    font-size: 2rem;
+    color: #fff;
+  }
+
+  .teet-title{
+    font-size: 2rem;
+    color: #fff;
+    font-weight: 800;
+  }
+
+  .blocke-title{
+    margin: 1rem;
+    padding: 1rem;
+    width: 20%;
+  }
+
+  .blocke{
+    margin: 1rem;
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+    width: 20%;
+  }
+
+  .blocke2{
+    margin: 1rem;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 1rem;
+    width: 40%;
+  }
+
+  .teet-bullet{
+    font-size: 1.5rem;
+    color: #fff;
+    background-color: #2196F3;
+    border-radius: 1rem;
+    padding: 1rem;
+    width: 40%;
+    text-align: center;
+    font-weight: 800;
+  }
+
+  .blocke-2{
+    width: 100%;
+    margin: .4rem .2rem .2rem .2rem;
+  }
+
+  .blocke-2-submit{
+    width: 40%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #2196F3;
+    color: #fff;
+    border-radius: 1rem;
+    border: none;
+    padding: .8rem;
+    font-size: 1rem;
+    font-weight: 800;
+  }
+
+  .se {
+    background-color: #333;
+    border: #fff solid .1rem;
+    color: #fff;
+    padding: .5rem;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .blocke-2 label{
+    width: 100%;
+    color: #fff;
+    display: block;
+    margin-bottom: .2rem;
+  }
+
+  .para{
+    font-size: 2rem;
+    color: #fff;
+    margin: 1rem 2rem;
+  }
+
+  .para2{
+    font-size: 1rem;
+    color: #fff;
+    margin: 2rem;
+  }
+
+  .para3{
+    width: 100%;
+    height: 25rem;
+  }
+
+  .lol{
+    position: absolute;
+    top: 5%;
+    left: 60%;
+    height: 87%;
+    overflow-y: scroll;
+    scrollbar-width: none;
+  }
+
+  .cont{
+    width: 80%;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding-bottom: .5rem;
+    margin-bottom: .5rem;
+  }
