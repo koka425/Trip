@@ -16,6 +16,12 @@ loginForm.addEventListener("submit", (e) => {
     }else{
       console.log(ee);
       document.getElementById('su').innerText = 'SUBMITTED'
+      setTimeout(()=>{
+        document.getElementById('name').value = '';
+        document.getElementById('email').value ='';
+        document.getElementById('mess').value = '';
+        document.getElementById('su').innerText = 'Submit'
+      }, 2000)
     }
     
     // handle submit
